@@ -11,6 +11,7 @@ Package.onUse(function(api) {
     api.use([
         "coniel:base-model@0.3.0",
         "coniel:likeable@0.0.1",
+        "coniel:can@0.1.0",
         "mdg:validated-method@1.0.1",
         "didericis:callpromise-mixin@0.0.1",
         "tunifight:loggedin-mixin@0.1.0",
