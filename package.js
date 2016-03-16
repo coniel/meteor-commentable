@@ -1,7 +1,7 @@
 Package.describe({
     name: "coniel:commentable",
     summary: "A package for implementing social commenting",
-    version: "0.0.1",
+    version: "0.0.2",
     git: "https://github.com/coniel/commentable.git"
 });
 
